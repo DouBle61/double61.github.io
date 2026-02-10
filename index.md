@@ -1,8 +1,37 @@
 ---
-layout: page
-title: About
+layout: null
 permalink: /index.html
 ---
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Redirecting...</title>
+  <script>
+    // 检查用户之前选择的语言
+    const savedLang = localStorage.getItem('preferred-lang');
+    
+    // 如果没有保存，则根据浏览器语言判断
+    const browserLang = navigator.language || navigator.userLanguage;
+    const defaultLang = savedLang || (browserLang.startsWith('zh') ? 'zh' : 'en');
+    
+    // 重定向到对应语言页面
+    if (defaultLang === 'zh') {
+      window.location.href = '/EN-CV/index-zh.html';
+    } else {
+      window.location.href = '/EN-CV/index-en.html';
+    }
+  </script>
+</head>
+<body>
+  <p>Redirecting to your preferred language...</p>
+  <p>If not redirected, please click: 
+    <a href="/EN-CV/index-en.html">English</a> | 
+    <a href="/EN-CV/index-zh.html">中文</a>
+  </p>
+</body>
+</html>
 
 <img style="float:right; padding-left:10px" src="https://avatars.githubusercontent.com/u/260212410?v=4" width="220" height="220">
 
