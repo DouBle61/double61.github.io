@@ -9,10 +9,9 @@ permalink: /index.html
   <button onclick="switchLang('en')" style="font-size: 16px; padding: 8px 16px; margin: 0 5px; cursor: pointer;">English</button>
 </div>
 
-  <img style="float:right; padding-left:10px" src="https://avatars.githubusercontent.com/u/260212410?v=4" width="220" height="220">
-
-<div id="zh-content">
+<div id="zh-content" style="display: none;" markdown="1">
 <!-- 这里放所有中文内容 -->
+  <img style="float:right; padding-left:10px" src="https://avatars.githubusercontent.com/u/260212410?v=4" width="220" height="220">
   
  中文中文中文我是中文
   
@@ -104,7 +103,7 @@ permalink: /index.html
   <!-- * 西方语言学史 （姚小平）-->
 </div>
 
-<div id="en-content" style="display: none;">
+<div id="en-content" markdown="1">
 <!-- 这里放所有英文内容 -->
   <img style="float:right; padding-left:10px" src="https://avatars.githubusercontent.com/u/260212410?v=4" width="220" height="220">
   
