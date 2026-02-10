@@ -200,3 +200,15 @@ permalink: /index.html
   
   (last updated: Feb 2025)
 </div>
+
+<script>
+function switchLang(lang) {
+  if (lang === 'zh') {
+    document.getElementById('zh-content').style.display = 'block';
+    document.getElementById('en-content').style.display = 'none';
+  } else {
+    document.getElementById('zh-content').style.display = 'none';
+    document.getElementById('en-content').style.display = 'block';
+  }
+}
+</script>
