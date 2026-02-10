@@ -18,17 +18,17 @@ permalink: /index.html
     
     // 重定向到对应语言页面
     if (defaultLang === 'zh') {
-      window.location.href = '/EN-CV/index-zh.html';
+      window.location.href = '/index-zh.html';
     } else {
-      window.location.href = '/EN-CV/index-en.html';
+      window.location.href = '/index-en.html';
     }
   </script>
 </head>
 <body>
   <p>Redirecting to your preferred language...</p>
   <p>If not redirected, please click: 
-    <a href="/EN-CV/index-en.html">English</a> | 
-    <a href="/EN-CV/index-zh.html">中文</a>
+    <a href="/index-en.html">English</a> | 
+    <a href="/index-zh.html">中文</a>
   </p>
 </body>
 </html>
