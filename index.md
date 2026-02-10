@@ -4,9 +4,9 @@ title: About
 permalink: /index.html
 ---
 
-<div style="text-align: right; margin-bottom: 20px;">
-  <button onclick="showLang('zh')">中文</button>
-  <button onclick="showLang('en')">English</button>
+<div style="text-align: right; margin-bottom: 30px; padding: 10px;">
+  <button onclick="switchLang('zh')" style="font-size: 16px; padding: 8px 16px; margin: 0 5px; cursor: pointer;">中文</button>
+  <button onclick="switchLang('en')" style="font-size: 16px; padding: 8px 16px; margin: 0 5px; cursor: pointer;">English</button>
 </div>
 
 <div id="zh-content">
