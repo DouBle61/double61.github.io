@@ -4,8 +4,8 @@ title: About
 permalink: /index-en.html
 ---
 
-<div style="text-align: right; margin-bottom: 30px; padding: 10px;">
-  <a href="/EN-CV/index-zh.html" style="margin: 0 5px;">中文</a> | <strong>English</strong>
+<div style="float: right; margin: -40px 0 20px 0;">
+  <a href="/EN-CV/index-zh.html">中文</a> | <strong>English</strong>
 </div>
 
 <img style="float:right; padding-left:10px" src="https://avatars.githubusercontent.com/u/260212410?v=4" width="220" height="220">
