@@ -5,7 +5,7 @@ permalink: /index-zh.html
 ---
 
 <div style="position: fixed; top: 20px; right: 20px; z-index: 1000; background: white; padding: 10px; border-radius: 5px; box-shadow: 0 2px 5px rgba(0,0,0,0.1);">
-  <strong>中文</strong> | <a href="/EN-CV/index-en.html" style="margin: 0 5px; text-decoration: none;">English</a>
+  <strong>中文</strong> | <a href="/index-en.html" style="margin: 0 5px; text-decoration: none;">English</a>
 </div>
 
 <img style="float:right; padding-left:10px" src="https://avatars.githubusercontent.com/u/260212410?v=4" width="220" height="220">
