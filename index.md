@@ -9,9 +9,10 @@ permalink: /index.html
   <button onclick="switchLang('en')" style="font-size: 16px; padding: 8px 16px; margin: 0 5px; cursor: pointer;">English</button>
 </div>
 
+  <img style="float:right; padding-left:10px" src="https://avatars.githubusercontent.com/u/260212410?v=4" width="220" height="220">
+
 <div id="zh-content">
 <!-- 这里放所有中文内容 -->
-  <img style="float:right; padding-left:10px" src="https://avatars.githubusercontent.com/u/260212410?v=4" width="220" height="220">
   
  中文中文中文我是中文
   
