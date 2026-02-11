@@ -10,7 +10,7 @@ permalink: /index-en.html
 
 <img style="float:right; padding-left:10px" src="https://avatars.githubusercontent.com/u/260212410?v=4" width="220" height="220">
 
-I am an successive postgraduate and doctoral program student in Science Communication at the University of Chinese Academy of Sciences (UCAS)
+I am a successive postgraduate and doctoral program student in Science Communication at the University of Chinese Academy of Sciences (UCAS)
 
 My research interests focus on interstellar science fiction and Large Language Models (LLMs)
 
